@@ -1,4 +1,4 @@
-** EDA on Zomato Dataset**
+#**EDA on Zomato Dataset**
 
 "EDA on Zomato Dataset" is a project that involves exploratory data analysis of the Zomato dataset, which contains information about thousands of restaurants and their ratings, prices, and reviews. The goal of this project is to gain insights into the dataset and understand the factors that influence restaurant ratings and popularity.
 
