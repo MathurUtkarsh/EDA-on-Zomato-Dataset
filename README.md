@@ -6,7 +6,7 @@ The project includes a Jupyter notebook that walks through the data cleaning and
 
 The project also includes the original dataset in Json format and a README file that provides instructions on how to reproduce the analysis. 
 
-**Steps to Reproduce the result:**
+**1.** **Steps to Reproduce the result:**
 
 Users can clone the repository and run the notebook on their local machine or a cloud-based platform such as Google Colab.
 
